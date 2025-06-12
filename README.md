@@ -1,0 +1,1 @@
+Projeto criado a partir de um desafio que envolvia o consumo de uma API pública onde os dados eram acessados com base em um identificador (ID). O exercício permitiu aplicar conceitos de requisições HTTP com fetch, tratamento de respostas, exibição dinâmica de dados na página e manipulação de erros. Foi um dos primeiros contatos com o universo das APIs.
